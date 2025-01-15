@@ -19,7 +19,7 @@
 📖 [Discord Client Integration](https://x.com/SteveAI16z)
 
 <div align="center">
-    <img src="./docs/static/img/Steve_ai16z_Discord_Client" alt="Steve ai16z X Page" width="100%" />
+    <img src="./docs/static/img/Steve_ai16z_Discord_Client.png" alt="Steve ai16z X Page" width="100%" />
 </div>
 
 
