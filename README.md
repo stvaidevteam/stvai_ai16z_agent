@@ -1,5 +1,3 @@
-![Repository Icon](./docs/static/img/Steve_Repository_Icon.png)
-
 # Steve AI ai16z Agent 🤖
 
 <div align="center">
