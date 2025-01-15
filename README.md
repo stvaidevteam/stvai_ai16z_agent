@@ -100,24 +100,22 @@ pnpm start:client
 
 ### Automatically Start Your Steve ai16z Agent
 
-The start script provides an automated way to set up and run Eliza:
+The start script provides an automated way to set up and run the Steve ai16z Agent:
 
 ```bash
 sh scripts/start.sh
 ```
 
-For detailed instructions on using the start script, including character management and troubleshooting, see our [Start Script Guide](./docs/docs/guides/start-script.md).
-
 > **Note**: The start script handles all dependencies, environment setup, and character management automatically.
 
 ----
 
-### Modify Character
+### Modify Steve Character
 
 1. Open `packages/core/src/defaultCharacter.ts` to modify the default character. Uncomment and edit.
 
-2. To load custom characters:
-    - Use `pnpm start --characters="path/to/your/character.json"`
+2. To load Steve character:
+    - Use `pnpm start --characters="path/to/your/steve.character.json"`
     - Multiple character files can be loaded simultaneously
 3. Connect with X (Twitter)
     - change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X
