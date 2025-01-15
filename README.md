@@ -16,10 +16,10 @@
     <img src="./docs/static/img/Steve_ai16z_X_Page.png" alt="Steve ai16z X Page" width="100%" />
 </div>
 
-📖 [Discord Client Integration](https://x.com/SteveAI16z)
+📖 [Discord Client Integration](https://t.co/LtZlvB7KNB)
 
 <div align="center">
-    <img src="./docs/static/img/Steve_ai16z_Discord_Client.png" alt="Steve ai16z X Page" width="100%" />
+    <img src="./docs/static/img/Steve_ai16z_Discord_Client.png" alt="Steve ai16z Discord Client" width="100%" />
 </div>
 
 
