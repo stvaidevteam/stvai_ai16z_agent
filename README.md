@@ -116,7 +116,6 @@ sh scripts/start.sh
 
 2. To load Steve character:
     - Use `pnpm start --characters="path/to/your/steve.character.json"`
-    - Multiple character files can be loaded simultaneously
 3. Connect with X (Twitter)
     - change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X
 
