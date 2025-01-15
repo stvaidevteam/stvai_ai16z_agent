@@ -10,11 +10,12 @@
     <img src="./docs/static/img/Steve_AI_Website.png" alt="Steve AI Website" width="100%" />
 </div>
 
-
+📖 [Twitter Client Integration](https://x.com/SteveAI16z)
 
 <div align="center">
-  <img src="./docs/static/img/eliza_diagram.png" alt="Eliza Diagram" width="100%" />
+    <img src="./docs/static/img/Steve_ai16z_X_Page.png" alt="Steve ai16z X Page" width="100%" />
 </div>
+
 
 ## ✨ Features
 
