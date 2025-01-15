@@ -112,10 +112,10 @@ sh scripts/start.sh
 
 ### Modify Steve Character
 
-1. Open `packages/core/src/defaultCharacter.ts` to modify the default character. Uncomment and edit.
+1. Open `./characters/steve.character.json` to modify the Steve ai16z character personality.
 
 2. To load Steve character:
-    - Use `pnpm start --characters="path/to/your/steve.character.json"`
+    - Use `pnpm start --characters="./characters/steve.character.json"`
 3. Connect with X (Twitter)
     - change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X
 
