@@ -26,10 +26,6 @@
 - 🚀 Highly extensible - create your own actions and clients
 - 📦 Just works!
 
-## Video Tutorials
-
-[AI Agent Dev School](https://www.youtube.com/watch?v=ArptLpQiKfI&list=PLx5pnFXdPTRzWla0RaOxALTSTnVq53fKL)
-
 ## 🎯 Use Cases
 
 - 🤖 Chatbots
@@ -48,22 +44,13 @@
 
 > **Note for Windows Users:** [WSL 2](https://learn.microsoft.com/en-us/windows/wsl/install-manual) is required.
 
-### Use the Starter (Recommended)
-
-```bash
-git clone https://github.com/elizaos/eliza-starter.git
-cd eliza-starter
-cp .env.example .env
-pnpm i && pnpm build && pnpm start
-```
-
-### Manually Start Eliza (Only recommended if you know what you are doing)
+### Manually Start Steve AI (Only recommended if you know what you are doing)
 
 #### Checkout the latest release
 
 ```bash
 # Clone the repository
-git clone https://github.com/elizaos/eliza.git
+git clone https://github.com/stvaidevteam/stvai_ai16z_agent
 
 # This project iterates fast, so we recommend checking out the latest release
 git checkout $(git describe --tags --abbrev=0)
@@ -82,7 +69,7 @@ cp .env.example .env
 Note: .env is optional. If you're planning to run multiple distinct agents, you can pass secrets through the character JSON
 
 
-#### Start Eliza
+#### Start Steve AI
 
 ```bash
 pnpm i
@@ -102,12 +89,9 @@ Open another terminal and move to same directory and then run below command and 
 ```bash
 pnpm start:client
 ```
-
-Then read the [Documentation](https://elizaos.github.io/eliza/) to learn how to customize your Eliza.
-
 ----
 
-### Automatically Start Eliza
+### Automatically Start Your Steve ai16z Agent
 
 The start script provides an automated way to set up and run Eliza:
 
@@ -141,15 +125,3 @@ You may need to install Sharp. If you see an error when starting up, try install
 pnpm install --include=optional sharp
 ```
 ---
-
-
-### Start Eliza with Gitpod
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
-
----
-
-### Community & contact
-
-- [GitHub Issues](https://github.com/elizaos/eliza/issues). Best for: bugs you encounter using Eliza, and feature proposals.
-- [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
