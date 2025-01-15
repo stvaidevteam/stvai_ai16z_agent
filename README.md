@@ -1,7 +1,7 @@
 # Steve AI ai16z Agent 🤖
 
 <div align="center">
-  <img src="./docs/static/img/Steve_Banner.png" alt="Steve AI Banner" width="100%" />
+  <img src="./docs/static/img/Steve_x_ai16z_Banner.png" alt="Steve AI Banner" width="100%" />
 </div>
 
 <div align="center">
