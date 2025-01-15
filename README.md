@@ -4,13 +4,15 @@
   <img src="./docs/static/img/Steve_x_ai16z_Banner.png" alt="Steve AI Banner" width="100%" />
 </div>
 
+# Steve ai16z Agent Direct API Integration Implementation
+
 <div align="center">
 
-📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+📖 [Direct API Integration](https://steveai.net/)
 
 </div>
 
-## 🚩 Overview
+
 
 <div align="center">
   <img src="./docs/static/img/eliza_diagram.png" alt="Eliza Diagram" width="100%" />
