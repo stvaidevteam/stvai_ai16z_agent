@@ -4,13 +4,10 @@
   <img src="./docs/static/img/Steve_x_ai16z_Banner.png" alt="Steve AI Banner" width="100%" />
 </div>
 
-# Steve ai16z Agent Direct API Integration Implementation
-
-<div align="center">
-<img src="./docs/static/img/Steve_AI_Website.png" alt="Steve AI Website" width="100%" />
-
 📖 [Direct API Integration](https://steveai.net/)
 
+<div align="center">
+    <img src="./docs/static/img/Steve_AI_Website.png" alt="Steve AI Website" width="100%" />
 </div>
 
 
